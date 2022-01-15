@@ -1,4 +1,4 @@
-19114244855704537
+19122379906422537
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -56273,6 +56273,20 @@ USB USB_B USB_micro USB_OTG
 17
 6
 MS88SF2_01
+Ki-2500
+
+
+0
+0
+0
+MS88SF2_01
+Letters
+
+
+0
+0
+0
+MS88SF2_01
 MS88SF2
 
 
@@ -56287,6 +56301,20 @@ MS88SF2_v2
 28
 28
 MS88SF2_01
+Moon
+
+
+0
+0
+0
+MS88SF2_01
+OSHW-Logo2_7.3x6mm_SilkScreen
+Open Source Hardware Symbol
+Logo Symbol OSHW
+0
+0
+0
+MS88SF2_01
 PinSocket_1x13
 Through hole straight socket strip, 1x13, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
 Through hole socket strip THT 1x13 2.54mm single row
@@ -56300,6 +56328,13 @@ Through hole socket strip THT 1x14 2.54mm single row
 0
 14
 14
+MS88SF2_01
+firma_Cu_Mask
+Imported from Firma.svg
+svg2mod
+0
+0
+0
 Minew_BLE_Module
 MS88SF2
 
